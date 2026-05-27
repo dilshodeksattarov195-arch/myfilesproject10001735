@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadereerify",
+        "uuid": 10803845,
+        "checksum": "3p7s9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
